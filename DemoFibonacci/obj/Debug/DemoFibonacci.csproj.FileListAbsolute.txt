@@ -1,0 +1,13 @@
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\bin\Debug\DemoFibonacci.exe.config
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\bin\Debug\DemoFibonacci.exe
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\bin\Debug\DemoFibonacci.pdb
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\bin\Debug\Zadatak2.dll
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\bin\Debug\Zadatak2.pdb
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\obj\Debug\DemoFibonacci.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\obj\Debug\DemoFibonacci.Form1.resources
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\obj\Debug\DemoFibonacci.Properties.Resources.resources
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\obj\Debug\DemoFibonacci.csproj.GenerateResource.cache
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\obj\Debug\DemoFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\obj\Debug\DemoFibonacci.csproj.CopyComplete
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\obj\Debug\DemoFibonacci.exe
+C:\Users\Sara\source\repos\Zadatak2\DemoFibonacci\obj\Debug\DemoFibonacci.pdb

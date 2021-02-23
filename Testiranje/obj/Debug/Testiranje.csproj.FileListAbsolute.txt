@@ -1,0 +1,10 @@
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\bin\Debug\Testiranje.exe.config
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\bin\Debug\Testiranje.exe
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\bin\Debug\Testiranje.pdb
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\bin\Debug\Zadatak2.dll
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\bin\Debug\Zadatak2.pdb
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\obj\Debug\Testiranje.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\obj\Debug\Testiranje.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\obj\Debug\Testiranje.csproj.CopyComplete
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\obj\Debug\Testiranje.exe
+C:\Users\Sara\source\repos\Zadatak2\Testiranje\obj\Debug\Testiranje.pdb
